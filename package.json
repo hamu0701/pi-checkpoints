@@ -1,0 +1,16 @@
+{
+  "name": "pi-checkpoints",
+  "version": "0.1.0",
+  "description": "Rewind working-tree files together with Pi's /tree navigation",
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "test": "node checkpoints.test.mjs"
+  },
+  "devDependencies": {
+    "@earendil-works/pi-coding-agent": "^1.5.2"
+  },
+  "keywords": [
+    "pi-package"
+  ]
+}
